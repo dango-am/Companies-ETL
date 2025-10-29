@@ -1,6 +1,6 @@
 ##  GROUP-4 MEMBERS
 |  | name | student ID |
-|  |------|---------|
+|----|------|------------|
 | 1 | Haymanot Tadese | DBU1501258  |
 | 2 | Yosef Getaneh | DBU1501589  |
 | 3 | Melis Melakie | DBU1501357   |
